@@ -1,9 +1,9 @@
 ✅ 1. Code Review Walkthrough
-Hello everyone, and thank you for this opportunity.
+
 
 I'd like to walk you through my BookReview Platform, a full-stack application developed with React and TypeScript. This platform allows users to discover, review, and rate books, all through a clean, responsive UI powered by modern tooling and performance-first practices.
 
-🧱 Architecture & Folder Structure
+Architecture & Folder Structure
 I followed a modular structure that makes the project highly maintainable and extensible:
 
 components/: Houses all reusable UI components, including:
